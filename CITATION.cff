@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: pragmatic-benchmarking
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dennis
+    family-names: Milechin
+    affiliation: Boston University
+  - given-names: Ahmed
+    family-names: Aly
+    affiliation: Boston University
+  - given-names: Josh
+    family-names: Bevan
+    affiliation: Boston University
+  - given-names: Charlie
+    family-names: Jahnke
+    affiliation: Boston University
+  - given-names: Yun
+    family-names: Shen
+    affiliation: Boston University
+  - given-names: Brian
+    family-names: Gregor
+    affiliation: Boston University
+    orcid: 'https://orcid.org/0009-0004-9640-0574'
+identifiers:
+  - type: doi
+    value: 10.1109/HPEC49654.2021.9622797
+repository-code: 'https://github.com/bu-rcs/pragmatic-benchmarking'
+abstract: >-
+  The Research Computing Services (RCS) group at Boston
+  University (BU), developed a benchmark suite to evaluate
+  the performance of newer hardware under consideration for
+  purchase for the BU Shared Computing Cluster (SCC). The
+  custom suite of benchmarks is used to generate performance
+  metrics that are representative of the highly diverse
+  types of jobs run on the cluster. The results of the
+  benchmarks are used to make informed decisions about
+  hardware upgrades in order to provide the best balance of
+  performance and value for cluster users. In this paper we
+  discuss the present reasons for creating a custom
+  benchmark suite, the general architecture of the suite,
+  and provide sample results from selected benchmarks that
+  we ran on our cluster.
+license: GPL-3.0
