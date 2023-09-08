@@ -1,5 +1,5 @@
 # pragmatic-benchmarking
-A public version of our benchmarking framework.  The framework is described in the paper which is cited below.
+A public version of our benchmarking framework.  The framework is described in the paper cited below.
 
 # Setup
 This needs to be customized for your benchmarks. The model_bench benchmark demonstrates how to set up the directory structure. The STREAM benchmark is included as an example.
